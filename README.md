@@ -1,3 +1,3 @@
 # Haroun Ach
 
-Frontend Web Developer
+Software Engineer, Full-Stack Developer
